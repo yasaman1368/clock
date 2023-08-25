@@ -1,0 +1,12 @@
+
+body {
+    background-color: black;
+  }
+  #demo {
+    position: absolute;
+    color: white;
+    font-size: xx-large;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
